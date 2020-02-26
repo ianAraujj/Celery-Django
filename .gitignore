@@ -1,4 +1,4 @@
 .vscode
-myvenv
+myvenv/
 *pyc
-lixo
+lixo.txt

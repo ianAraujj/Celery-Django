@@ -1,4 +1,0 @@
-.vscode
-myvenv/
-*pyc
-lixo
